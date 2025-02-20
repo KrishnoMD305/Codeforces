@@ -16,7 +16,7 @@ void solve(){
         if(i != 32){
             if(!(b[i] <= a[i])){
                 cout<<"NO\n";
-                return 0;
+                return;
             }
         }
     }
