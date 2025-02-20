@@ -1,3 +1,5 @@
+// 307008296           20 Feb,2025, 07:52 PM          Krishno_MD                        46 ms                   0 KB
+
 // For the given operation if there is at least three dot sequentially then only 1st operation can be done 2 times
 // And rest of the time the 2nd operation will be done as the middle one will fill automatically of three dots
 // Or else the operation's number will be the number of dots
