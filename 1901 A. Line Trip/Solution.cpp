@@ -1,3 +1,6 @@
+// 306988904              20 Feb,2025,05:22 PM                  Krishno_MD           78 ms              0 KB
+// It is noted that the maximum difference between the gas stations is the minimum gas tank volume
+//But the road need to be reversed so last gas station and last destination need also tobe noted for that
 #include<bits/stdc++.h>
 using namespace std;
 //Krishno_MD_KUET_CSE
