@@ -1,3 +1,5 @@
+// For sorting something there needs at least 2 element from where it can be compared
+//So, for sorting k needs to greater than 1
 #include<bits/stdc++.h>
 using namespace std;
 //Krishno_MD_KUET_CSE
@@ -10,7 +12,7 @@ void solve(){
         r.push_back(a);
     }
     sort(r.begin(),r.end());
-    if(v==r){cout<<"YES\n"; return;}
+    if(v==r){cout<<"YES\n"; return;} // If it already sorted by default, then whether k=1 or what always will be yes
     if(k>1){cout<<"YES\n";}
     else{cout<<"NO\n";}
 }
