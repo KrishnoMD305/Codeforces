@@ -1,3 +1,8 @@
+// 307075558              21 Feb,2025,09:28 AM                   Krishno_MD                         46 ms                           100 KB
+
+// If there are two different kind of number then it can be possible otherwise not
+// If in the two different kind number at least one number appear n/2 times then it can be possible or not
+
 #include<bits/stdc++.h>
 using namespace std;
 //Krishno_MD_KUET_CSE
