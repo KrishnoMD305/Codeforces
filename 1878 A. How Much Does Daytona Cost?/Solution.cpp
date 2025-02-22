@@ -1,3 +1,8 @@
+// 307215576                 22 Feb, 2025, 09:24 AM        Krishno_MD                    124 ms                        100 KB
+
+// Subsegment means subarray and subarray can be consist of 1 element
+// If the target number appears in the array then it is yes otherwise No
+
 #include<bits/stdc++.h>
 using namespace std;
 //Krishno_MD_KUET_CSE
