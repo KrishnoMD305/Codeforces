@@ -1,3 +1,9 @@
+// 307225221                     22 Feb, 2025, 11:38 AM                    Krishno_MD                       61 ms                            0 KB
+
+// The efficiency is the differences between two playing teams
+// So, if the efficiency increases by n then the opposite teams efficiency decreases by n
+// So the efficiency of all teams is equal to 0
+
 #include<bits/stdc++.h>
 using namespace std;
 //Krishno_MD_KUET_CSE
