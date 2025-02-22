@@ -1,3 +1,7 @@
+// 307236954                22 Feb,2025,01:14 PM            Krishno_MD                       62 ms                          0 KB
+
+// Without using the if else statement, applying the direct formula which is associated with points to the position(i,j)
+
 #include<bits/stdc++.h>
 using namespace std;
 //Krishno_MD_KUET_CSE
