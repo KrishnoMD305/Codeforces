@@ -1,3 +1,8 @@
+//307292534                  22 Feb,2025, 08:22 PM                          Krishno_MD                              218 ms                           100 KB
+
+// The minimum operations will be the minimum number of the array without minus sign
+// Because this is the actual ammount of operation to need to make a element 0, then the product will be 0
+
 #include<bits/stdc++.h>
 using namespace std;
 //Krishno_MD_KUET_CSE
