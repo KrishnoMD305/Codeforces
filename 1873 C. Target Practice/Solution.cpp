@@ -1,3 +1,7 @@
+// 307235749                  22 Feb,2025,01:05 PM              Krishno_MD                        61 ms                 0 KB
+
+// Observe the grid and find that for which values of i,j , how much point does it get
+
 #include<bits/stdc++.h>
 using namespace std;
 //Krishno_MD_KUET_CSE
