@@ -1,3 +1,9 @@
+// 307362082                     23 Feb, 2025, 10:47 AM                    Krishno_MD                    405 ms                    1300 KB
+
+// According to the rule, we can apply the reverse rule.
+// Rule was the previous element is less than or equal to current element. So we apply the reverse.
+// For safety we use 1 as reversing process
+
 #include<bits/stdc++.h>
 using namespace std;
 //Krishno_MD_KUET_CSE
