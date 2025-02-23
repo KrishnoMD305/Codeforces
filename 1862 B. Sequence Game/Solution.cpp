@@ -9,19 +9,38 @@ using namespace std;
 class K{
     public:
         void solution(){
-            int n; cin>>n; vec a;
-            f(n){int x; cin>>x; a.pb(x);}
-            vec r; r.pb(a[0]);
-            p1(i,n){
-                if(a[i] >= a[i-1]){r.pb(a[i]);}
-                else{
-                    if(a[i] > 1){r.pb(1); r.pb(a[i]);}
-                    else{r.pb(1); r.pb(1);}
+            int n;
+            cin >> n;
+            vec a(n);
+            f(n) cin >> a[i];
+            
+            vec r;
+            r.pb(a[0]);
+            
+            p1(i, n){
+                if(a[i] >= a[i-1]){
+                    r.pb(a[i]);
+                } else {
+                    if(a[i] > 1){
+                        r.pb(1);
+                        r.pb(a[i]);
+                    } else {
+                        r.pb(1);
+                        r.pb(1);
+                    }
                 }
             }
-            cout<<r.size()<<"\n";
-            p(i,n){cout<<r[i]<<" ";}
-            cout<<"\n";
+
+            cout << r.size() << "\n";
+            p(i, r.size()) cout << r[i] << " ";
+            cout << "\n";
         }
 };
-int main(){int t; cin>>t; K solve; while(t--){solve.solution();} return 0;}
+
+int main(){
+    int t; 
+    cin >> t; 
+    K solve; 
+    while(t--) { solve.solution(); } 
+    return 0;
+}
