@@ -1,3 +1,9 @@
+// 307388556                          23 Feb,2025, 03:26 PM                     Krishno_MD                          46 ms                           0 KB
+
+//All we need to do that just make operation on the adjacent two elements whose difference is minimum because that's the number of operation we need to perform
+// To make the number of operations minimum we have to do this for cancelling the sorting of two adjacent element
+// Here the sort is ascending. So, if we can make one inside discending then the given task is done
+
 #include<bits/stdc++.h>
 using namespace std;
 //Krishno_MD_KUET_CSE
