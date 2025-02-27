@@ -1,3 +1,13 @@
+// 308020876             27 Feb,2025, 10:32 AM                     Krishno_MD                               46 ms                              100 KB
+
+/*The problem is about considering the least amount of cases possible. I propose the following options.
+If x≠1, then you can always print n ones. So the answer is YES.
+If k=1, then no integer is available, so the answer is NO.
+If k=2, then only 2 is available, so you can only collect even n. So if it's odd, the answer is NO. 
+
+Otherwise, you can always collect n with the following construction: if n is even then take 2, otherwise take 3. Then take ⌊n2⌋−1 twos. You can see that an even n only uses twos, so 
+it fits the previous check. If it's odd, then k is at least 3, so 3 is allowed to take.*/
+
 #include<bits/stdc++.h>
 using namespace std;
 //Krishno_MD_KUET_CSE
