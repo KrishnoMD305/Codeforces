@@ -1,3 +1,9 @@
+// 308033268                  27 Feb,2025, 12:53 PM                    Krishno_MD                          46 ms                     0 KB
+
+// If x is not divisable by k, then alone x will be answer. So it can be only one jump
+// If it is divisable then x-1 and 1 meaning 2 jumps. As k is greater than 2 so, 1 is not divisable by any value of k
+// Also if x is divisable by k then of course x-1 is not divisable by k
+
 #include<bits/stdc++.h>
 using namespace std;
 //Krishno_MD_KUET_CSE
