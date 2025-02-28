@@ -1,3 +1,8 @@
+// 308247576                     28 Feb,2025, 02:52 PM                          Krishno_MD                         218 ms                      0 KB
+
+// Suppose the array is 1 2 3 4 then according to condition the other array will be 4 3 2 1
+// So, 4+1 = 5, 3+2 = 5, ........... If there is n elements, then the sum will be n+1
+
 #include<bits/stdc++.h>
 using namespace std;
 //Krishno_MD_KUET_CSE
