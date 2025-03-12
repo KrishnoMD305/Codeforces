@@ -1,4 +1,4 @@
-// 310289250                          12 Mar, 2025, 10:53 PM                           Krishno_MD                            62 ms                               100 KB
+// 310289090                          12 Mar, 2025, 10:52 PM                           Krishno_MD                            93 ms                               3900 KB
 
 /* Here only element is 1 and 2. In multiplication there is no concern for 1. Let's think about only 2. There is a characteristics of the number 2.
 2*2*2*..... n terms = 2+2+2+.... n terms
