@@ -1,3 +1,5 @@
+# 311199629	Mar/18/2025 11:07UTC+6	Krishno_MD	2051C - Preparing for the Exam	PyPy 3-64	Accepted	296 ms	43800 KB
+
 # Krishno_MD_KUET_CSE
 test_case = int(input())
 for i in range(test_case):
