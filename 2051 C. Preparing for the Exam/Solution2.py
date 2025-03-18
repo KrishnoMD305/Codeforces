@@ -1,3 +1,5 @@
+# 311199774	     Mar/18/2025 11:09UTC+6	     Krishno_MD		 PyPy 3-64	     Accepted	     265 ms	     43400 KB
+
 # Krishno_MD_KUET_CSE
 test_cases = int(input())
 for i in range(test_cases):
