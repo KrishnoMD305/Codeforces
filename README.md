@@ -18,4 +18,6 @@ This repository is organized by problem set. Each folder contains:
 - The programming language used (mostly C++ or Python).
 - Source code.
 
+---
+![Signature](Signature.png)
 
